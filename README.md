@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
 
-<!--
-**RejeeshKoshy/RejeeshKoshy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🛡️ Cybersecurity Enthusiast | 🧠 Lisp & Blockchain Explorer | 💪 Always Learning
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Security%2B-Studying-orange?logo=compTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network%2B-In%20Progress-yellow?logo=compTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lisp-Learning-brightgreen?logo=lisp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain-Active-blue?logo=ethereum&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧭 Currently Exploring
+
+- 🛡️ **Security+ / Network+** — Daily videos from Prof. Messer
+- 🧬 **Common Lisp** — Elegant systems and recursive beauty
+- ⛓️ **Blockchain** — Smart contracts, Ethereum, cryptographic protocols
+
+---
+
+## 🧪 Projects & Labs
+
+| 🚧 Project | 🔧 Stack | 🔎 Description |
+|-----------|----------|----------------|
+| **`Malware Prediction and Detection Model`** | Python, Flask | a ml-based system for detecting malicious software by analyzing key features of software samples |
+| **`Discord Meme Bot with Python`** | Python | A discord bot that interacts by responding to user messages, fetching and sharing memes. |
+| **`The Stack Journal`** | Markdown, HTML, CSS | Personal knowledge base for Security+ & Network+ |
+| **`Priority Based Smart Traffic System`** | AnyLogic for traffic simulation, Java, Python | Model and simulate a traffic management system that prioritizes emergency vehicles |
+
+> 🗂️ Check out my pinned repositories for more!
+
+---
+
+## 📚 Study Stack
+
+###Certifications:
+  - [x] CompTIA Security+ (in progress)
+  - [ ] CompTIA Network+ (in progress)
+
+###Languages:
+  - Common Lisp 🧠
+  - Python 🐍
+  - Bash 🖥️
+
+###Tools:
+  - Wireshark 🔍
+  - Nmap 🕵️‍♂️
+  - Git / GitHub 🛠️
+  - Linux 🐧
+
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RejeeshKoshy&show_icons=true&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RejeeshKoshy&layout=compact&theme=radical" /> </p> 
