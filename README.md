@@ -36,16 +36,16 @@
 
 ## 📚 Study Stack
 
-###Certifications:
+### Certifications:
   - [x] CompTIA Security+ (in progress)
   - [ ] CompTIA Network+ (in progress)
 
-###Languages:
+### Languages:
   - Common Lisp 🧠
   - Python 🐍
   - Bash 🖥️
 
-###Tools:
+### Tools:
   - Wireshark 🔍
   - Nmap 🕵️‍♂️
   - Git / GitHub 🛠️
